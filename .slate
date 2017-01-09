@@ -30,6 +30,10 @@ bind x:alt;shift focus ${terminal}
 alias browser 'Google Chrome'
 bind c:alt;shift focus ${browser}
 
+alias media 'Spotify'
+bind v:alt;shift focus ${media}
+
+
 # SLATE FEATURES
 # -------------------------------------------------------------------
 
