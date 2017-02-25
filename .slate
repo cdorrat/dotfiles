@@ -24,7 +24,7 @@ bind down:${move-hyper}     focus down
 alias editor 'Emacs'
 bind z:alt;shift focus ${editor}
 
-alias terminal 'Terminal'
+alias terminal 'iTerm2'
 bind x:alt;shift focus ${terminal}
 
 alias browser 'Google Chrome'
